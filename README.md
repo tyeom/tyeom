@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeom)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
-- .net developer (C# / WPF, ASP.NET Core)
+- .Net developer (C# / WPF, ASP.NET Core)
 - Node.js
 - Flutter
 
