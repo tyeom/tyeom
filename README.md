@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 👋 Hi! Welcome to my Github profile!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tyeom)](https://github.com/tyeom)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.Until@gmail.com)](mailto:r.Until@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tyeom)](https://github.com/tyeom) &nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.Until@gmail.com)](mailto:r.Until@gmail.com)&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eom-ty-46023616b/)](https://www.linkedin.com/in/eom-ty-46023616b/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://arooong.synology.me:5008)(http://arooong.synology.me:5008)](http://arooong.synology.me:5008)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tyeom.github.io)(https://tyeom.github.io/)](https://tyeom.github.io)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://arooong.synology.me:5008)(https://arong.info)](https://arong.info)&nbsp;&nbsp;
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tyeom.github.io)(https://blog.arong.info)](https://blog.arong.info)
 
 [![tyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyeom&theme=flag-india&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeom)](https://github.com/anuraghazra/github-readme-stats)
