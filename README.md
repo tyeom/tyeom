@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://arooong.synology.me:5008)(https://arong.info)](https://arong.info)&nbsp;&nbsp;
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tyeom.github.io)(https://blog.arong.info)](https://blog.arong.info)
 
-[![tyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyeom&theme=flag-india&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeom)](https://github.com/anuraghazra/github-readme-stats)
+[![tyeom's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tyeom&theme=flag-india&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tyeom)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
 - .Net developer (C# / WPF, ASP.NET Core)
