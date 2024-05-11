@@ -43,7 +43,4 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-bb69b4)
 
 ### 📫 How to reach me
-- kakao open chat (https://open.kakao.com/o/gViurRJ)
-(https://open.kakao.com/o/gTGjqnwb)<br/>
-Nickname : arooong or contact ming
-- gmail contact
+- gmail contact (r.Until@gmail.com)
