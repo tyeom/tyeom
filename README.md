@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tyeom)](https://github.com/tyeom) &nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.Until@gmail.com)](mailto:r.Until@gmail.com)&nbsp;&nbsp;
-[![Linkedin Badge](https://www.linkedin.com/in/%ED%83%9C%EC%98%81-%EC%97%84-46023616b/)](https://www.linkedin.com/in/%ED%83%9C%EC%98%81-%EC%97%84-46023616b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eom-ty-46023616b)](https://www.linkedin.com/in/%ED%83%9C%EC%98%81-%EC%97%84-46023616b/)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tyeom.github.io)(https://blog.arong.info)](https://blog.arong.info)
 
